@@ -1,1 +1,0 @@
-# django_deployment_practice
